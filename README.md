@@ -18,5 +18,11 @@ En este semestre aprendí unas cuantas cosas y lenguaje que anteriormente no era
 * Logré comprender como abordar problemas en equipo de manera tranquila y estructurada por partes.
 * Aprendí a dar Feedback de manera colaborativa, sin prejuicios y con calma.
 
-## 5. 
+## 5. Evidencia control de versiones
+* https://github.com/Valvalrem/Entrega-Entorno-Digital/commit/1f81c239203cad9fa38a1273dde81e4045ebc4a7
+* https://github.com/Valvalrem/Entrega-Entorno-Digital/commit/9dcd90c256b2805b2923efe6aacef5915804f005
+
+## 6. Reflexión:
+El feedback directo y sin vueltas me ayudó bastante. Al principio me daba bastante vergüenza admitir que me perdía con las palabras en inglés que usamos en programación o con conceptos nuevos (como "Feedback" o "Open Source"), sobre todo por miedo a no saber cómo explicarme bien o quedar mal frente al profe y a mis compañeros.
+Pero cuando empezamos a hablar en los grupos de clase y me dieron opiniones bien honestas y directas, me di cuenta de que la única forma de avanzar es ir consultando y consultando, además de ir aceptando las correcciones con tranquilidad. Todo esto hizo que pueda ordenar mejor mis ideas y empezar a trabajar en equipo de forma mucho más organizada y con más confianza.
   
