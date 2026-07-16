@@ -1,28 +1,24 @@
-# Proyecto Final: Mentalidad de Crecimiento y Comunicación
+# Superando la barrera del inglés técnico en entornos de desarrollo
 
 ## 1. Contexto
-Durante este semestre estuve trabajando en un ámbito bastante amigable, clases teóricas de charla y entendimiento puro entre nosotros (los alumnos) y el profesor de Entornos Digitales.
+Durante este semestre en la diplomatura de Mentalidad de Crecimiento y Comunicación en Entornos Digitales, estuve trabajando en un espacio de aprendizaje sumamente colaborativo. Las clases teóricas fomentaban el debate constante y un entendimiento muy directo entre nosotros como alumnos y el profesor. Sin embargo, al interactuar con las herramientas reales del día a día, surgió un obstáculo importante.
 
-## 2. El problema
-Al ser nuevo en estos temas de programación, lo que más se me dificultaba eran las palabras clave en inglés para referirse a ciertos tipos de acciones, por lo que a veces podía llegar a perderme un poco. Además de no poder expresar mis ideas a través de mis palabras correctamente.
+## 2. El problema (Análisis en profundidad)
+Al ingresar al mundo de la programación y los entornos digitales, el principal desafío no fue solo entender la lógica, sino asimilar la terminología técnica en inglés. Palabras clave esenciales para el flujo de trabajo (como *commit*, *push*, *pull request*, *merge* o *open source*) me resultaban ajenas. 
 
-## 3. Post-Mortem
-Para solucionar este problema con el idioma técnico de programación, empecé a buscar por internet cuáles eran los significados de ciertas palabras que no conocía o entendía:
-* Investigué significados como "Feedback" y "Open Source".
-* Me imaginé en un entorno trabajador usando expresiones técnicas y pensando en como podría lograr expresarme mejor.
-* En grupos de clase solicitamos Feedback para ver como era el trabajo y expresión de los demás alumnos.
+Esto me generaba dos problemas críticos en el día a día laboral/académico:
+1. **Bloqueo en la acción:** A veces me perdía en las explicaciones prácticas por no asociar instantáneamente la palabra técnica en inglés con la acción física que debía realizar en la plataforma.
+2. **Barrera de comunicación:** Me costaba expresar mis dudas de manera clara y precisa al equipo por no contar con el vocabulario técnico adecuado, lo que ralentizaba la resolución de problemas.
 
-## 4. Aprendizajes
-En este semestre aprendí unas cuantas cosas y lenguaje que anteriormente no era capaz de comprender:
-* Aprendí como expresarme de una manera más eficiente y general en un entorno de "trabajo".
-* Logré comprender como abordar problemas en equipo de manera tranquila y estructurada por partes.
-* Aprendí a dar Feedback de manera colaborativa, sin prejuicios y con calma.
+## 3. Post-Mortem: Acciones aplicadas con datos concretos
+Para resolver esta situación de forma estructurada, apliqué un plan de acción basado en tres pilares:
 
-## 5. Evidencia control de versiones
-* https://github.com/Valvalrem/Entrega-Entorno-Digital/commit/1f81c239203cad9fa38a1273dde81e4045ebc4a7
-* https://github.com/Valvalrem/Entrega-Entorno-Digital/commit/9dcd90c256b2805b2923efe6aacef5915804f005
+* **Documentación y Glosario Técnico Activo:** Creé un glosario personal donde registré más de 15 términos clave de Git y GitHub, traduciendo su significado técnico a un lenguaje sencillo y asociándolos con iconos visuales de la interfaz. Por ejemplo, relacionar el comando *Commit* con "guardar una foto o captura del estado actual de mi proyecto".
+* **Búsqueda e Investigación Autónoma:** Implementé el hábito de investigar de forma individual conceptos de la cultura digital como "Open Source" y "Feedback", entendiendo no solo su traducción, sino su valor e impacto en la industria del software.
+* **Flujo de Feedback Colaborativo:** En los trabajos grupales, tomé la iniciativa de solicitar feedback explícito a mis compañeros sobre mi forma de expresarme, asegurándome de que estuviéramos alineados en el uso del vocabulario.
 
-## 6. Reflexión:
-El feedback directo y sin vueltas me ayudó bastante. Al principio me daba bastante vergüenza admitir que me perdía con las palabras en inglés que usamos en programación o con conceptos nuevos (como "Feedback" o "Open Source"), sobre todo por miedo a no saber cómo explicarme bien o quedar mal frente al profe y a mis compañeros.
-Pero cuando empezamos a hablar en los grupos de clase y me dieron opiniones bien honestas y directas, me di cuenta de que la única forma de avanzar es ir consultando y consultando, además de ir aceptando las correcciones con tranquilidad. Todo esto hizo que pueda ordenar mejor mis ideas y empezar a trabajar en equipo de forma mucho más organizada y con más confianza.
-  
+## 4. Aprendizajes clave para el entorno laboral
+Este proceso de superación me dejó lecciones fundamentales aplicables a cualquier equipo de trabajo real:
+* **La comunicación técnica es una habilidad blanda crítica:** En una empresa, hablar el mismo idioma técnico que tus desarrolladores o diseñadores evita malentendidos, ahorra horas de reuniones innecesarias y agiliza el despliegue de proyectos.
+* **Abordaje estructurado de problemas:** Aprender a desglosar una frustración grande (como "no entender la terminología") en tareas pequeñas (como "anotar 3 palabras nuevas por clase") es la forma más eficiente de superar cuellos de botella técnicos.
+* **Cultura de Feedback sin prejuicios:** Recibir y dar feedback de manera constructiva y tranquila mejora la cohesión del equipo y acelera el crecimiento profesional de todos los miembros.
