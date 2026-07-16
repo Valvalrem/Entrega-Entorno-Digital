@@ -1,4 +1,6 @@
 # Superando la barrera del inglés técnico en entornos de desarrollo
+> 🔗 **[Leé el artículo completo con imágenes y capturas en mi Blog Técnico de DEV.to haciendo clic acá](https://dev.to/valvalrem/la-barrera-del-ingles-tecnico-en-entornos-de-desarrollo-2mph)**
+
 
 ## 1. Contexto
 Durante este semestre en la diplomatura de Mentalidad de Crecimiento y Comunicación en Entornos Digitales, estuve trabajando en un espacio de aprendizaje sumamente colaborativo. Las clases teóricas fomentaban el debate constante y un entendimiento muy directo entre nosotros como alumnos y el profesor. Sin embargo, al interactuar con las herramientas reales del día a día, surgió un obstáculo importante.
