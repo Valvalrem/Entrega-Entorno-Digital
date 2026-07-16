@@ -22,3 +22,12 @@ Este proceso de superación me dejó lecciones fundamentales aplicables a cualqu
 * **La comunicación técnica es una habilidad blanda crítica:** En una empresa, hablar el mismo idioma técnico que tus desarrolladores o diseñadores evita malentendidos, ahorra horas de reuniones innecesarias y agiliza el despliegue de proyectos.
 * **Abordaje estructurado de problemas:** Aprender a desglosar una frustración grande (como "no entender la terminología") en tareas pequeñas (como "anotar 3 palabras nuevas por clase") es la forma más eficiente de superar cuellos de botella técnicos.
 * **Cultura de Feedback sin prejuicios:** Recibir y dar feedback de manera constructiva y tranquila mejora la cohesión del equipo y acelera el crecimiento profesional de todos los miembros.
+
+## 5. Evidencia de control de versiones
+* [Primer commit: Repositorio creado](https://github.com/Valvalrem/Entrega-Entorno-Digital/commit/1f81c239203cad9fa38a1273dde81e4045ebca47)
+* [Segundo commit: Redacción inicial del desafío](https://github.com/Valvalrem/Entrega-Entorno-Digital/commit/9dcd90c256b2805b2923efe6aacef5915804f005)
+
+## 6. Reflexión: Mi opinión sobre el Feedback Sincero
+El feedback directo y sin vueltas me ayudó un montón. Al principio me daba bastante vergüenza admitir que me perdía con las palabras en inglés que usamos en programación o con conceptos nuevos (como "Feedback" o "Open Source"), sobre todo por miedo a no saber cómo explicarme bien o quedar mal frente al profe y a mis compañeros.
+
+Pero cuando empezamos a hablar en los grupos de clase y me dieron opiniones bien honestas y directas, me di cuenta de que la única forma de avanzar es ir de frente. Aceptar las correcciones con tranquilidad, ordenar mejor mis ideas y empezar a trabajar en equipo de forma mucho más organizada y con más confianza.
